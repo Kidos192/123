@@ -147,8 +147,8 @@
                 { "text": "Francuskie wsparcie dla Habsburgów", "correct": false },
                 { "text": "Dążenie władców protestanckich do uniezależnienia się od Habsburgów", "correct": true },
                 { "text": "Konflikty pomiędzy katolikami i protestantami", "correct": true },
-                { "text": "Współpraca Czechów z Ferdynandem II Habsburgiem", "correct": true },
-                { "text": "Cesarskie plany przywrócenia jedności religijnej w Rzeszy", "correct": false }
+                { "text": "Współpraca Czechów z Ferdynandem II Habsburgiem", "correct":  false },
+                { "text": "Cesarskie plany przywrócenia jedności religijnej w Rzeszy", "correct": true }
             ]
         },
         {
