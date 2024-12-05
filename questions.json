@@ -1,0 +1,283 @@
+{
+    "groupA": [
+        {
+            "question": "Zaznacz trzy przyczyny wybuchu wojny trzydziestoletniej.",
+            "answers": [
+                { "text": "cesarskie plany przywrócenia jedności religijnej w Rzeszy", "correct": true },
+                { "text": "dążenie władców protestanckich do uniezależnienia się od Habsburgów", "correct": true },
+                { "text": "francuskie wsparcie dla Habsburgów", "correct": false },
+                { "text": "konflikty pomiędzy katolikami i protestantami", "correct": true },
+                { "text": "współpraca Czechów z Ferdynandem II Habsburgiem", "correct": false }
+            ]
+        },
+        {
+            "question": "Wojna trzydziestoletnia toczyła się w latach:",
+            "answers": [
+                { "text": "1618–1648", "correct": true },
+                { "text": "1624–1654", "correct": false },
+                { "text": "1630–1660", "correct": false },
+                { "text": "1635–1665", "correct": false }
+            ]
+        },
+        {
+            "question": "Zaznacz trzy skutki wojny trzydziestoletniej.",
+            "answers": [
+                { "text": "Rzesza utrzymała silną pozycję w Europie i była przeciwwagą dla Francji.", "correct": false },
+                { "text": "Pozycja cesarza na arenie międzynarodowej uległa osłabieniu.", "correct": true },
+                { "text": "Konflikt przyniósł wysokie straty ludzkie.", "correct": true },
+                { "text": "Nastąpił koniec wojen religijnych na ziemiach niemieckich.", "correct": true },
+                { "text": "Nastąpiło szybkie uspokojenie sytuacji na terenach, gdzie toczyły się walki.", "correct": false }
+            ]
+        },
+        {
+            "question": "Zaznacz trzy określenia, które odnoszą się do panowania Ludwika XIV.",
+            "answers": [
+                { "text": "regularne zwoływanie obrad Stanów Generalnych", "correct": false },
+                { "text": "zniesienie Edyktu nantejskiego", "correct": true },
+                { "text": "stłumienie wystąpień społecznych (frondy)", "correct": true },
+                { "text": "powołanie urzędu intendenta", "correct": false },
+                { "text": "budowa pałacu w Wersalu", "correct": true }
+            ]
+        },
+        {
+            "question": "Zaznacz właściwe dokończenie zdania. Określeniem „chwalebna rewolucja” nazywa się:",
+            "answers": [
+                { "text": "przejęcie władzy w Anglii przez Wilhelma III Orańskiego.", "correct": true },
+                { "text": "ścięcie Karola I Stuarta.", "correct": false },
+                { "text": "wybuch wojny domowej w Anglii.", "correct": false },
+                { "text": "powstanie Wielkiej Brytanii.", "correct": false }
+            ]
+        },
+        {
+            "question": "Oceń, czy poniższe zdania dotyczące Anglii w XVII w. są prawdziwe. Zaznacz literę „P” przy zdaniach prawdziwych, a „F” – przy fałszywych.",
+            "answers": [
+                { "text": "Karol I Stuart regularnie zwoływał obrady parlamentu.", "correct": false },
+                { "text": "Podczas wojny domowej zwolennikami parlamentu byli przedstawiciele arystokracji.", "correct": false },
+                { "text": "Angielski parlament skazał na śmierć Karola I Stuarta.", "correct": true }
+            ]
+        },
+        {
+            "question": "Zaznacz trzy zdania odnoszące się do sztuki barokowej.",
+            "answers": [
+                { "text": "Oddziaływała na emocje odbiorców poprzez dramatyzm przedstawień.", "correct": true },
+                { "text": "Rozwijała się w Europie do początku XVIII w.", "correct": true },
+                { "text": "Miała ograniczoną symbolikę.", "correct": false },
+                { "text": "Charakteryzowała się przepychem.", "correct": true },
+                { "text": "Najpełniej rozwijała się w krajach protestanckich.", "correct": false }
+            ]
+        },
+        {
+            "question": "A) Podaj nazwę systemu rządów opisanych w źródle.",
+            "answers": [
+                { "text": "Monarchia", "correct": false },
+                { "text": "Republika", "correct": false },
+                { "text": "Dyktatura wojskowa", "correct": true },
+                { "text": "Demokracja", "correct": false }
+            ]
+        },
+        {
+            "question": "B) Urząd lorda protektora był sprawowany:",
+            "answers": [
+                { "text": "dziedzicznie i przekazywany z ojca na syna", "correct": false },
+                { "text": "dożywotnio przez osobę wybieraną przez parlament", "correct": true },
+                { "text": "10 lat przez osobę wybieraną przez parlament", "correct": false }
+            ]
+        },
+        {
+            "question": "A) Podaj nazwę wydarzenia, o którym wspomina tekst.",
+            "answers": [
+                { "text": "Wojna trzydziestoletnia", "correct": false },
+                { "text": "Defenestracja praska", "correct": true },
+                { "text": "Reformacja", "correct": false },
+                { "text": "Pokój westfalski", "correct": false }
+            ]
+        },
+        {
+            "question": "B) Wyjaśnij, czy autor był zwolennikiem Ligi Katolickiej, czy Unii Protestanckiej.",
+            "answers": [
+                { "text": "Liga Katolicka - Świadczy o tym nazwanie bezlitosnym i haniebnym występkiem wyrzucenia przez okno dwóch namiestników katolickiego cesarza. Defenestracji praskiej dokonali czescy protestanci", "correct": true },
+                { "text": "Unia Protestancka", "correct": false }
+            ]
+        },
+        {
+            "question": "Zaznacz trzy postanowienia pokoju westfalskiego:",
+            "answers": [
+                { "text": "Na obszarze Rzeszy religią panującą został katolicyzm", "correct": false },
+                { "text": "Postanowienia pokoju augsburskiego objęły kalwinistów", "correct": true },
+                { "text": "Habsburgowie uznali niezależność Holandii", "correct": true },
+                { "text": "Francja uzyskała nabytki terytorialne (m.in. Alzację)", "correct": true },
+                { "text": "Polityka zagraniczna wszystkich księstw niemieckich była podporządkowana cesarzowi", "correct": false }
+            ]
+        },
+        {
+            "question": "Purytanie:",
+            "answers": [
+                { "text": "byli zagorzałymi katolikami", "correct": false },
+                { "text": "określani byli jako nowa szlachta", "correct": false },
+                { "text": "byli radykalnymi protestantami", "correct": true }
+            ]
+        },
+        {
+            "question": "Podaj, jak się nazywali uczeni, którzy w XVII w. dokonali opisanych odkryć.",
+            "answers": [
+                { "text": "Odkrycie fizycznego prawa swobodnego spadania ciał - Galileusz", "correct": true },
+                { "text": "Sformułowanie prawa rządzącego ruchami planet - Kepler", "correct": true }
+            ]
+        },
+        {
+            "question": "Przyporządkuj hasła i pojęcia do podanych ustrojów politycznych dwóch krajów u schyłku XVII w.",
+            "answers": [
+                { "text": "Ustrój Anglii: król nie mógł zawieszać obowiązywania ustaw parlamentu, . w czasie obrad parlamentu obowiązywała wolność słowa, członkowie parlamentu byli wybierani w wolnych wyborach", "correct": true },
+                { "text": "Ustrój Francji:  absolutyzm, parlament nie był zwoływany, poszerzenie uprawnień policji i cenzury", "correct": true }
+            ]
+        },
+		{
+            "question": "Podaj nazwę poglądu filozoficznego, którego dotyczy opis, oraz wymień jego przedstawiciela.",
+            "answers": [
+                { "text": "racjonalizm", "correct": true },
+                { "text": "Kartezjusz", "correct": true }
+            ]
+        }
+    ],
+	
+    "groupB": [
+        {
+            "question": "Zaznacz trzy przyczyny wybuchu wojny trzydziestoletniej.",
+            "answers": [
+                { "text": "Francuskie wsparcie dla Habsburgów", "correct": false },
+                { "text": "Dążenie władców protestanckich do uniezależnienia się od Habsburgów", "correct": true },
+                { "text": "Konflikty pomiędzy katolikami i protestantami", "correct": true },
+                { "text": "Współpraca Czechów z Ferdynandem II Habsburgiem", "correct": true },
+                { "text": "Cesarskie plany przywrócenia jedności religijnej w Rzeszy", "correct": false }
+            ]
+        },
+        {
+            "question": "Wojna trzydziestoletnia toczyła się w latach:",
+            "answers": [
+                { "text": "1618–1648", "correct": true },
+                { "text": "1620–1650", "correct": false },
+                { "text": "1630–1660", "correct": false },
+                { "text": "1635–1665", "correct": false }
+            ]
+        },
+        {
+            "question": "Zaznacz trzy skutki wojny trzydziestoletniej.",
+            "answers": [
+                { "text": "Konflikt przyniósł wysokie straty ludzkie", "correct": true },
+                { "text": "Nastąpił koniec wojen religijnych na ziemiach niemieckich", "correct": true },
+                { "text": "Rzesza utrzymała silną pozycję w Europie i była przeciwwagą dla Francji", "correct": false },
+                { "text": "Nastąpiło szybkie uspokojenie sytuacji na terenach, gdzie toczyły się walki", "correct": false },
+                { "text": "Pozycja cesarza na arenie międzynarodowej uległa osłabieniu", "correct": true }
+            ]
+        },
+        {
+            "question": "Zaznacz trzy określenia, które odnoszą się do panowania Ludwika XIV.",
+            "answers": [
+                { "text": "Zniesienie Edyktu nantejskiego", "correct": true },
+                { "text": "Regularne zwoływanie Stanów Generalnych", "correct": false },
+                { "text": "Budowa pałacu w Wersalu", "correct": true },
+                { "text": "Stłumienie wystąpień społecznych (frondy)", "correct": true },
+                { "text": "Powołanie urzędu intendenta", "correct": false }
+            ]
+        },
+        {
+            "question": "Zaznacz właściwe dokończenie zdania. Określeniem „chwalebna rewolucja” nazywa się:",
+            "answers": [
+                { "text": "Ścięcie Karola I Stuarta", "correct": false },
+                { "text": "Powstanie Wielkiej Brytanii", "correct": false },
+                { "text": "Wybuch wojny domowej w Anglii", "correct": false },
+                { "text": "Przejęcie władzy w Anglii przez Wilhelma III Orańskiego", "correct": true }
+            ]
+        },
+        {
+            "question": "Oceń, czy poniższe zdania dotyczące Anglii w XVII w. są prawdziwe. Zaznacz literę „P” przy zdaniach prawdziwych, a „F” – przy fałszywych.",
+            "answers": [
+                { "text": "Angielski parlament skazał na śmierć Karola II Stuarta.", "correct": false },
+                { "text": "Karol I Stuart zwoływał obrady parlamentu tylko wtedy, gdy było to konieczne.", "correct": true },
+                { "text": "Podczas wojny domowej zwolennikami parlamentu byli przedstawiciele gentry.", "correct": true }
+            ]
+        },
+        {
+            "question": "Zaznacz trzy zdania odnoszące się do sztuki barokowej.",
+            "answers": [
+                { "text": "Miała ograniczona symbolikę", "correct": false },
+                { "text": "Oddziaływała na emocje odbiorców poprzezdramatyzm przedstawień", "correct": true },
+                { "text": "Najpełniej rozwijała się w krajach protestanckich", "correct": false },
+                { "text": "Charakteryzowała się przepychem", "correct": true },
+                { "text": "Rozwijała się w Europie do początku XVIII w.", "correct": true }
+            ]
+        },
+        {
+            "question": "A) Podaj, jaki system rządów wprowadzono po odebraniu władzy królowi.",
+            "answers": [
+                { "text": "Republika", "correct": true },
+                { "text": "Ustanowienie monarchii konstytucyjnej", "correct": false },
+                { "text": "Powstanie parlamentu", "correct": false },
+                { "text": "Ustanowienie protektoratu", "correct": false }
+            ]
+        },
+        {
+            "question": "B) Podaj właściwe dokończenie zdania. Karolowi I zarzucono, że:",
+            "answers": [
+                { "text": "nie dążył do wzmocnienia swojej władzy i nie interesował się państwem", "correct": false },
+                { "text": "regularnie zwoływał posiedzenia parlamentu, za pomocą których ograniczał wolność poddanych", "correct": false },
+                { "text": "rządził wyłącznie we własnym interesie i wynosił się ponad prawo", "correct": true }
+            ]
+        },
+        {
+            "question": "A) Podaj nazwę wydarzenia, o którym wspomina tekst.",
+            "answers": [
+                { "text": "Defenestracja praska", "correct": true },
+                { "text": "Wojna trzydziestoletnia", "correct": false },
+                { "text": "Reformacja", "correct": false },
+                { "text": "Pokój westfalski", "correct": false }
+            ]
+        },
+        {
+            "question": "B) Wyjaśnij, czy autor był zwolennikiem Ligi Katolickiej, czy Unii Protestanckiej.",
+            "answers": [
+                { "text": "Liga Katolicka - Świadczy o tym nazwanie bezlitosnym i haniebnym występkiem wyrzucenia przez okno dwóch namiestników katolickiego cesarza. Defenestracji praskiej dokonali czescy protestanci", "correct": false },
+                { "text": "Unia Protestancka", "correct": true }
+            ]
+        },
+        {
+            "question": "Zaznacz trzy postanowienia pokoju westfalskiego.",
+            "answers": [
+                { "text": "Na obszarze Rzeszy religią panującą został katolicyzm", "correct": false },
+                { "text": "Habsburgowie uznali niezależność Holandii", "correct": true },
+                { "text": "Polityka ograniczania władzy wszystkich księstw niemieckich była podporządkowana cesarzowi", "correct": false },
+                { "text": "Francja uzyskała nabytki terytorialne (m.in. Alzację)", "correct": true },
+                { "text": "Wprowadzono pokój augsburskiego, objęły kalwinistów", "correct": true }
+            ]
+        },
+        {
+            "question": "Purtyanie:",
+            "answers": [
+                { "text": "byli zagorzałymi katolikami", "correct": false },
+                { "text": "byli radykalnymi protestantami", "correct": true },
+                { "text": "określani byli jako nowa szlachta", "correct": false }
+            ]
+        },
+        {
+            "question": "Podaj, jak się nazywali uczeni, którzy w XVII w. dokonali opisanych odkryć.",
+            "answers": [
+                { "text": "Skonstruowanie teleskopu umożliwiającego do obserwowania ciał niebieskich - Galileusz", "correct": true },
+                { "text": "Sformułowanie prawa powszechnego ciążenia - Newton", "correct": true }
+            ]
+        },
+        {
+            "question": "Przyporządkuj hasła do podanych ustrojów politycznych w dwóch krajach u schyłku XVII w.",
+            "answers": [
+                { "text": "Ustrój Angli: monarchia parlamentarna,  król nie mógł nakładać podatków bez zgody parlamentu, torysi i wigowie", "correct": true },
+                { "text": "Ustrój Francjii: „państwo to ja”, szlachta urzędnicza, pozbawienie arystokracji wpływu na władzę", "correct": true }
+            ]
+        },
+		{
+            "question": "Podaj nazwę podglądu filozoficznego, którego dotyczy opisz oraz wymień jego prz",
+            "answers": [
+                { "text": "empiryzm", "correct": true },
+                { "text": "Francis Bacon", "correct": true }
+            ]
+        }
+    ]
+}
